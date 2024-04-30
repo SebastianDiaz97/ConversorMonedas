@@ -1,0 +1,3 @@
+1. From: CLP, to: COP, qty: 7654.0, conversion: 31373.746, Date: 30-04-2024 00:40:53
+2. From: CLP, to: USD, qty: 789.0, conversion: 0.831, Date: 30-04-2024 00:41:23
+3. From: COP, to: BRL, qty: 6578.0, conversion: 8.63, Date: 30-04-2024 00:41:41
